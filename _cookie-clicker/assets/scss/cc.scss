@@ -1,0 +1,26 @@
+/* Variabes */
+body {
+    padding: 0;
+    margin: 0; 
+  }
+  
+  canvas#score {
+    /*vertical-align: top;*/
+    width: 80px;
+    height: 30px; 
+    display: block;
+    margin: 0 auto;
+    margin-top: -55px !important;
+    margin-bottom: 35px !important;
+    /*border: #555554 dashed 2px;*/
+  }
+  
+  canvas#cookie {
+    width: 368px;
+    height: 200px;
+    display: block;
+    cursor: pointer;
+    margin: 0 auto;
+    /*border: #555554 dashed 2px;*/ }
+  
+  /*# sourceMappingURL=cc.css.map */
